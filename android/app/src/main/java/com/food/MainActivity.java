@@ -1,4 +1,4 @@
-package com.uber;
+package com.food;
 
 import com.facebook.react.ReactActivity;
 
